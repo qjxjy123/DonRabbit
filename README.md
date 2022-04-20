@@ -1,2 +1,0 @@
-# DonRabbit
-A project
